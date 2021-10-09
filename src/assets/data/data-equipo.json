@@ -1,0 +1,23 @@
+[
+    {
+      "frase": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor.",
+      "nombre": "Daniel Méndez",
+      "subtitulo": "Desarrollador",
+      "twitter": "@SrTumnus1987",
+      "url": "gs://curso-angular-html-9ee9a.appspot.com/team-1.jpg"
+    },
+    {
+      "frase": "Ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit.",
+      "nombre": "Daniel Morales",
+      "titulo": "Directivo",
+      "twitter": "@dmoralesd1700",
+      "url": "gs://curso-angular-html-9ee9a.appspot.com/team-2.jpg"
+    },
+    {
+      "frase": "Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
+      "nombre": "Alguien más",
+      "subtitulo": "Master en Marketing",
+      "twitter": "@ninguno",
+      "url": "gs://curso-angular-html-9ee9a.appspot.com/team-3.jpg"
+    }
+]
